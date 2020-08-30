@@ -1,0 +1,3103 @@
+
+textures.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Sprites/Bosses/Dungeon Master/Projectile0/DungeonMaster_Blast
+  rotate: false
+  xy: 1, 643
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: 0
+Sprites/Bosses/Dungeon Master/Projectile1/DungeonMaster_Blast
+  rotate: false
+  xy: 1, 643
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: 0
+Sprites/Bosses/Dungeon Master/Projectile2/DungeonMaster_Blast
+  rotate: false
+  xy: 1, 643
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: 0
+Sprites/Bosses/Dungeon Master/Projectile0/DungeonMaster_Blast
+  rotate: false
+  xy: 1, 322
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: 1
+Sprites/Bosses/Dungeon Master/Projectile0/DungeonMaster_Blast
+  rotate: false
+  xy: 322, 322
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: 2
+Sprites/Bosses/Dungeon Master/Projectile0/DungeonMaster_Blast
+  rotate: false
+  xy: 643, 322
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: 3
+Sprites/Bosses/Dungeon Master/Projectile1/DungeonMaster_Blast
+  rotate: false
+  xy: 322, 643
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: 1
+Sprites/Bosses/Dungeon Master/Projectile1/DungeonMaster_Blast
+  rotate: false
+  xy: 643, 643
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: 2
+Sprites/Bosses/Dungeon Master/Projectile1/DungeonMaster_Blast
+  rotate: false
+  xy: 643, 1
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: 3
+Sprites/Bosses/Dungeon Master/Projectile2/DungeonMaster_Blast
+  rotate: false
+  xy: 1, 1
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: 1
+Sprites/Bosses/Goblin King/Projectile/GoblinKing_Blast
+  rotate: false
+  xy: 1, 1
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: 1
+Sprites/Player/Scepter/Projectile/Player_Blast
+  rotate: false
+  xy: 1, 1
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: 1
+Sprites/Bosses/Dungeon Master/Projectile2/DungeonMaster_Blast
+  rotate: false
+  xy: 322, 1
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: 2
+Sprites/Bosses/Goblin King/Projectile/GoblinKing_Blast
+  rotate: false
+  xy: 322, 1
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: 2
+Sprites/Player/Scepter/Projectile/Player_Blast
+  rotate: false
+  xy: 322, 1
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: 2
+
+textures2.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Sprites/Bosses/Dungeon Master/DungeonMaster_Death
+  rotate: false
+  xy: 1, 322
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: 0
+Sprites/Bosses/Dungeon Master/DungeonMaster_Death
+  rotate: false
+  xy: 322, 643
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: 1
+Sprites/Bosses/Dungeon Master/DungeonMaster_Death
+  rotate: false
+  xy: 1, 1
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: 2
+Sprites/Bosses/Dungeon Master/DungeonMaster_Death
+  rotate: false
+  xy: 322, 322
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: 3
+Sprites/Bosses/Dungeon Master/DungeonMaster_Death
+  rotate: false
+  xy: 643, 643
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: 4
+Sprites/Bosses/Dungeon Master/DungeonMaster_Death
+  rotate: false
+  xy: 322, 1
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: 5
+Sprites/Bosses/Dungeon Master/DungeonMaster_Death
+  rotate: false
+  xy: 322, 1
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: 7
+Sprites/Bosses/Dungeon Master/DungeonMaster_Death
+  rotate: false
+  xy: 643, 322
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: 6
+Sprites/Bosses/Dungeon Master/DungeonMaster_Death
+  rotate: false
+  xy: 643, 1
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: 8
+Sprites/Bosses/Dungeon Master/Projectile2/DungeonMaster_Blast
+  rotate: false
+  xy: 1, 643
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: 3
+Sprites/Bosses/Goblin King/Projectile/GoblinKing_Blast
+  rotate: false
+  xy: 1, 643
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: 3
+Sprites/Player/Scepter/Projectile/Player_Blast
+  rotate: false
+  xy: 1, 643
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: 3
+
+textures3.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Sprites/Bosses/Dungeon Master/DungeonMaster_Death
+  rotate: false
+  xy: 1, 643
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: 9
+Sprites/Bosses/Dungeon Master/DungeonMaster_Death
+  rotate: false
+  xy: 1, 322
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: 10
+Sprites/Bosses/Dungeon Master/DungeonMaster_Death
+  rotate: false
+  xy: 322, 643
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: 11
+Sprites/Bosses/Dungeon Master/Projectile0/DungeonMaster_Projectile
+  rotate: false
+  xy: 1, 1
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: 0
+Sprites/Bosses/Dungeon Master/Projectile0/DungeonMaster_Projectile
+  rotate: false
+  xy: 322, 1
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: 1
+Sprites/Bosses/Dungeon Master/Projectile1/DungeonMaster_Projectile
+  rotate: false
+  xy: 322, 322
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: 0
+Sprites/Bosses/Dungeon Master/Projectile1/DungeonMaster_Projectile
+  rotate: false
+  xy: 643, 322
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: 1
+Sprites/Bosses/Dungeon Master/Projectile2/DungeonMaster_Projectile
+  rotate: false
+  xy: 643, 643
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: 0
+Sprites/Bosses/Goblin King/Projectile/GoblinKing_Projectile
+  rotate: false
+  xy: 643, 643
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: 0
+Sprites/Player/Scepter/Projectile/Player_Projectile
+  rotate: false
+  xy: 643, 643
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: 0
+Sprites/Bosses/Dungeon Master/Projectile2/DungeonMaster_Projectile
+  rotate: false
+  xy: 643, 1
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: 1
+Sprites/Bosses/Goblin King/Projectile/GoblinKing_Projectile
+  rotate: false
+  xy: 643, 1
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: 1
+Sprites/Player/Scepter/Projectile/Player_Projectile
+  rotate: false
+  xy: 643, 1
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: 1
+
+textures4.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Sprites/Bosses/Dungeon Master/DungeonMaster_Walk
+  rotate: false
+  xy: 322, 1
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: 0
+Sprites/Bosses/Dungeon Master/DungeonMaster_Walk
+  rotate: false
+  xy: 643, 322
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: 1
+Sprites/Bosses/Dungeon Master/DungeonMaster_Walk
+  rotate: false
+  xy: 643, 1
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: 2
+Sprites/Bosses/Dungeon Master/Projectile0/DungeonMaster_Projectile
+  rotate: false
+  xy: 1, 643
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: 2
+Sprites/Bosses/Dungeon Master/Projectile0/DungeonMaster_Projectile
+  rotate: false
+  xy: 1, 1
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: 3
+Sprites/Bosses/Dungeon Master/Projectile1/DungeonMaster_Projectile
+  rotate: false
+  xy: 1, 322
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: 2
+Sprites/Bosses/Dungeon Master/Projectile1/DungeonMaster_Projectile
+  rotate: false
+  xy: 322, 322
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: 3
+Sprites/Bosses/Dungeon Master/Projectile2/DungeonMaster_Projectile
+  rotate: false
+  xy: 322, 643
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: 2
+Sprites/Bosses/Goblin King/Projectile/GoblinKing_Projectile
+  rotate: false
+  xy: 322, 643
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: 2
+Sprites/Player/Scepter/Projectile/Player_Projectile
+  rotate: false
+  xy: 322, 643
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: 2
+Sprites/Bosses/Dungeon Master/Projectile2/DungeonMaster_Projectile
+  rotate: false
+  xy: 643, 643
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: 3
+Sprites/Bosses/Goblin King/Projectile/GoblinKing_Projectile
+  rotate: false
+  xy: 643, 643
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: 3
+Sprites/Player/Scepter/Projectile/Player_Projectile
+  rotate: false
+  xy: 643, 643
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: 3
+
+textures5.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Sprites/Bosses/Dungeon Master/DungeonMaster_Walk
+  rotate: false
+  xy: 1, 643
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: 3
+Sprites/Bosses/Goblin King/GoblinKing_Death
+  rotate: false
+  xy: 322, 643
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: 0
+Sprites/Bosses/Goblin King/GoblinKing_Death
+  rotate: false
+  xy: 1, 1
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: 1
+Sprites/Bosses/Goblin King/GoblinKing_Death
+  rotate: false
+  xy: 322, 322
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: 2
+Sprites/Bosses/Goblin King/GoblinKing_Death
+  rotate: false
+  xy: 643, 643
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: 3
+Sprites/Bosses/Goblin King/GoblinKing_Walk
+  rotate: false
+  xy: 322, 1
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: 0
+Sprites/Bosses/Goblin King/GoblinKing_Walk
+  rotate: false
+  xy: 643, 322
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: 1
+Sprites/Bosses/Goblin King/GoblinKing_Walk
+  rotate: false
+  xy: 643, 1
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: 2
+Sprites/Bosses/Goblin King/Projectile/GoblinKing_Blast
+  rotate: false
+  xy: 1, 322
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: 0
+
+textures6.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Sprites/Bosses/Goblin King/GoblinKing_Walk
+  rotate: false
+  xy: 1, 643
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: 3
+Sprites/Bosses/Skeleton King/SkeletonKing_Death
+  rotate: false
+  xy: 322, 643
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: 0
+Sprites/Bosses/Skeleton King/SkeletonKing_Death
+  rotate: false
+  xy: 1, 1
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: 1
+Sprites/Bosses/Skeleton King/SkeletonKing_Death
+  rotate: false
+  xy: 322, 322
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: 2
+Sprites/Bosses/Skeleton King/SkeletonKing_Death
+  rotate: false
+  xy: 643, 643
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: 3
+Sprites/Bosses/Skeleton King/SkeletonKing_Obstacle
+  rotate: false
+  xy: 322, 1
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: 0
+Sprites/Bosses/Skeleton King/SkeletonKing_Obstacle
+  rotate: false
+  xy: 643, 322
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: 1
+Sprites/Bosses/Skeleton King/SkeletonKing_Obstacle
+  rotate: false
+  xy: 643, 1
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: 2
+Sprites/Player/Scepter/Projectile/Player_Blast
+  rotate: false
+  xy: 1, 322
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: 0
+
+textures7.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Sprites/Bosses/Skeleton King/SkeletonKing_Obstacle
+  rotate: false
+  xy: 1, 643
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: 3
+Sprites/Bosses/Skeleton King/SkeletonKing_Ostacle_Death
+  rotate: false
+  xy: 1, 322
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: 0
+Sprites/Bosses/Skeleton King/SkeletonKing_Ostacle_Death
+  rotate: false
+  xy: 322, 643
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: 1
+Sprites/Bosses/Skeleton King/SkeletonKing_Ostacle_Death
+  rotate: false
+  xy: 1, 1
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: 2
+Sprites/Bosses/Skeleton King/SkeletonKing_Ostacle_Death
+  rotate: false
+  xy: 322, 322
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: 3
+Sprites/Bosses/Skeleton King/SkeletonKing_Walk
+  rotate: false
+  xy: 643, 643
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: 0
+Sprites/Bosses/Skeleton King/SkeletonKing_Walk
+  rotate: false
+  xy: 322, 1
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: 1
+Sprites/Bosses/Skeleton King/SkeletonKing_Walk
+  rotate: false
+  xy: 643, 322
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: 2
+Sprites/Bosses/Skeleton King/SkeletonKing_Walk
+  rotate: false
+  xy: 643, 1
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: 3
+
+textures8.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Sprites/Bosses/Slime King/SlimeKing_Death
+  rotate: false
+  xy: 1, 643
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: 0
+Sprites/Bosses/Slime King/SlimeKing_Death
+  rotate: false
+  xy: 1, 322
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: 1
+Sprites/Bosses/Slime King/SlimeKing_Death
+  rotate: false
+  xy: 322, 643
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: 2
+Sprites/Bosses/Slime King/SlimeKing_Death
+  rotate: false
+  xy: 1, 1
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: 3
+Sprites/Bosses/Slime King/SlimeKing_Obstacle
+  rotate: false
+  xy: 322, 322
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: 0
+Sprites/Bosses/Slime King/SlimeKing_Obstacle
+  rotate: false
+  xy: 643, 643
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: 1
+Sprites/Bosses/Slime King/SlimeKing_Obstacle
+  rotate: false
+  xy: 322, 1
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: 2
+Sprites/Bosses/Slime King/SlimeKing_Obstacle
+  rotate: false
+  xy: 643, 322
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: 3
+Sprites/Bosses/Slime King/SlimeKing_Obstacle_Death
+  rotate: false
+  xy: 643, 1
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: 0
+
+textures9.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+HUD/Defence/Defence_Flash
+  rotate: false
+  xy: 643, 402
+  size: 240, 240
+  orig: 240, 240
+  offset: 0, 0
+  index: 0
+HUD/Defence/Defence_Flash
+  rotate: false
+  xy: 643, 161
+  size: 240, 240
+  orig: 240, 240
+  offset: 0, 0
+  index: 1
+Sprites/Bosses/Slime King/SlimeKing_Obstacle_Death
+  rotate: false
+  xy: 1, 643
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: 1
+Sprites/Bosses/Slime King/SlimeKing_Obstacle_Death
+  rotate: false
+  xy: 1, 322
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: 2
+Sprites/Bosses/Slime King/SlimeKing_Obstacle_Death
+  rotate: false
+  xy: 322, 643
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: 3
+Sprites/Bosses/Slime King/SlimeKing_Walk
+  rotate: false
+  xy: 1, 1
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: 0
+Sprites/Bosses/Slime King/SlimeKing_Walk
+  rotate: false
+  xy: 322, 322
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: 1
+Sprites/Bosses/Slime King/SlimeKing_Walk
+  rotate: false
+  xy: 643, 643
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: 2
+Sprites/Bosses/Slime King/SlimeKing_Walk
+  rotate: false
+  xy: 322, 1
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: 3
+
+textures10.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+HUD/Defence/Defence_Flash
+  rotate: false
+  xy: 1, 725
+  size: 240, 240
+  orig: 240, 240
+  offset: 0, 0
+  index: 2
+HUD/Defence/Defence_Flash
+  rotate: false
+  xy: 1, 484
+  size: 240, 240
+  orig: 240, 240
+  offset: 0, 0
+  index: 3
+HUD/Defence/Value/Defence_Value
+  rotate: false
+  xy: 1, 484
+  size: 240, 240
+  orig: 240, 240
+  offset: 0, 0
+  index: 5
+HUD/Defence/Value/Defence_Value
+  rotate: false
+  xy: 242, 725
+  size: 240, 240
+  orig: 240, 240
+  offset: 0, 0
+  index: 0
+HUD/Defence/Value/Defence_Value
+  rotate: false
+  xy: 1, 243
+  size: 240, 240
+  orig: 240, 240
+  offset: 0, 0
+  index: 1
+HUD/Defence/Value/Defence_Value
+  rotate: false
+  xy: 242, 484
+  size: 240, 240
+  orig: 240, 240
+  offset: 0, 0
+  index: 2
+HUD/Defence/Value/Defence_Value
+  rotate: false
+  xy: 483, 725
+  size: 240, 240
+  orig: 240, 240
+  offset: 0, 0
+  index: 3
+HUD/Defence/Value/Defence_Value
+  rotate: false
+  xy: 1, 2
+  size: 240, 240
+  orig: 240, 240
+  offset: 0, 0
+  index: 4
+HUD/HP/HP_Flash
+  rotate: false
+  xy: 242, 243
+  size: 240, 240
+  orig: 240, 240
+  offset: 0, 0
+  index: 0
+HUD/HP/HP_Flash
+  rotate: false
+  xy: 242, 243
+  size: 240, 240
+  orig: 240, 240
+  offset: 0, 0
+  index: 1
+HUD/HP/HP_Flash
+  rotate: false
+  xy: 483, 484
+  size: 240, 240
+  orig: 240, 240
+  offset: 0, 0
+  index: 2
+HUD/HP/HP_Flash
+  rotate: false
+  xy: 483, 484
+  size: 240, 240
+  orig: 240, 240
+  offset: 0, 0
+  index: 3
+HUD/HP/Value/HP_Value
+  rotate: false
+  xy: 483, 484
+  size: 240, 240
+  orig: 240, 240
+  offset: 0, 0
+  index: 1
+HUD/HP/Value/HP_Value
+  rotate: false
+  xy: 724, 725
+  size: 240, 240
+  orig: 240, 240
+  offset: 0, 0
+  index: 0
+HUD/HP/Value/HP_Value
+  rotate: false
+  xy: 242, 2
+  size: 240, 240
+  orig: 240, 240
+  offset: 0, 0
+  index: 2
+HUD/HP/Value/HP_Value
+  rotate: false
+  xy: 483, 243
+  size: 240, 240
+  orig: 240, 240
+  offset: 0, 0
+  index: 3
+HUD/HP/Value/HP_Value
+  rotate: false
+  xy: 724, 484
+  size: 240, 240
+  orig: 240, 240
+  offset: 0, 0
+  index: 4
+HUD/HP/Value/HP_Value
+  rotate: false
+  xy: 483, 2
+  size: 240, 240
+  orig: 240, 240
+  offset: 0, 0
+  index: 5
+Items/Axe/Axe
+  rotate: false
+  xy: 724, 323
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 0
+Items/Axe/Axe
+  rotate: false
+  xy: 724, 162
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 1
+Items/Axe/Axe
+  rotate: false
+  xy: 724, 1
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 2
+
+textures11.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Items/Axe/Axe
+  rotate: false
+  xy: 1, 806
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 3
+Items/Defence/Defence
+  rotate: false
+  xy: 323, 806
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 0
+Items/Defence/Defence
+  rotate: false
+  xy: 1, 323
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 1
+Items/Defence/Defence
+  rotate: false
+  xy: 162, 484
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 2
+Items/Defence/Defence
+  rotate: false
+  xy: 323, 645
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 3
+Props/Barrel
+  rotate: false
+  xy: 1, 645
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 0
+Props/Barrel
+  rotate: false
+  xy: 162, 806
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 1
+Props/Barrel
+  rotate: false
+  xy: 1, 484
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 2
+Props/Barrel
+  rotate: false
+  xy: 162, 645
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 3
+Props/Doors/Door/Door_Close
+  rotate: false
+  xy: 484, 806
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 0
+Props/Doors/Door/Door_Close
+  rotate: false
+  xy: 1, 162
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 1
+Props/Doors/Door/Door_Close
+  rotate: false
+  xy: 162, 323
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 2
+Props/Doors/Door/Door_Close
+  rotate: false
+  xy: 323, 484
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 3
+Props/Doors/Door/Door_Open
+  rotate: false
+  xy: 484, 645
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
+Props/Doors/Dungeon Master Door/DungeonMasterDoor_Close
+  rotate: false
+  xy: 645, 806
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 0
+Props/Doors/Dungeon Master Door/DungeonMasterDoor_Close
+  rotate: false
+  xy: 1, 1
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 1
+Props/Doors/Dungeon Master Door/DungeonMasterDoor_Close
+  rotate: false
+  xy: 162, 162
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 2
+Props/Doors/Dungeon Master Door/DungeonMasterDoor_Close
+  rotate: false
+  xy: 323, 323
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 3
+Props/Doors/Dungeon Master Door/DungeonMasterDoor_Open
+  rotate: false
+  xy: 484, 484
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
+Props/Doors/Goblin Door/GoblinDoor_Close
+  rotate: false
+  xy: 645, 645
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 0
+Props/Doors/Goblin Door/GoblinDoor_Close
+  rotate: false
+  xy: 806, 806
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 1
+Props/Doors/Goblin Door/GoblinDoor_Close
+  rotate: false
+  xy: 162, 1
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 2
+Props/Doors/Goblin Door/GoblinDoor_Close
+  rotate: false
+  xy: 323, 162
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 3
+Props/Doors/Goblin Door/GoblinDoor_Open
+  rotate: false
+  xy: 484, 323
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
+Sprites/Monsters/Goblin/Variant0/Goblin_Death
+  rotate: false
+  xy: 645, 484
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 0
+Sprites/Monsters/Goblin/Variant1/Goblin_Death
+  rotate: false
+  xy: 645, 484
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 0
+Sprites/Monsters/Goblin/Variant0/Goblin_Death
+  rotate: false
+  xy: 806, 645
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 1
+Sprites/Monsters/Goblin/Variant1/Goblin_Death
+  rotate: false
+  xy: 806, 645
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 1
+Sprites/Monsters/Goblin/Variant0/Goblin_Death
+  rotate: false
+  xy: 323, 1
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 2
+Sprites/Monsters/Goblin/Variant1/Goblin_Death
+  rotate: false
+  xy: 323, 1
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 2
+Sprites/Monsters/Goblin/Variant0/Goblin_Death
+  rotate: false
+  xy: 484, 162
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 3
+Sprites/Monsters/Goblin/Variant1/Goblin_Death
+  rotate: false
+  xy: 484, 162
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 3
+Sprites/Monsters/Goblin/Variant0/Goblin_Walk
+  rotate: false
+  xy: 645, 323
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 0
+Sprites/Monsters/Goblin/Variant0/Goblin_Walk
+  rotate: false
+  xy: 484, 1
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 1
+Sprites/Monsters/Goblin/Variant0/Goblin_Walk
+  rotate: false
+  xy: 806, 323
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 2
+Sprites/Monsters/Goblin/Variant0/Goblin_Walk
+  rotate: false
+  xy: 806, 162
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 3
+Sprites/Monsters/Goblin/Variant1/Goblin_Walk
+  rotate: false
+  xy: 806, 484
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 0
+Sprites/Monsters/Goblin/Variant1/Goblin_Walk
+  rotate: false
+  xy: 645, 162
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 1
+Sprites/Monsters/Goblin/Variant1/Goblin_Walk
+  rotate: false
+  xy: 645, 1
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 2
+Sprites/Monsters/Goblin/Variant1/Goblin_Walk
+  rotate: false
+  xy: 806, 1
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 3
+
+textures12.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Items/HP/HP
+  rotate: false
+  xy: 1, 806
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 0
+Items/HP/HP
+  rotate: false
+  xy: 1, 645
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 1
+Items/HP/HP
+  rotate: false
+  xy: 162, 806
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 2
+Items/HP/HP
+  rotate: false
+  xy: 1, 484
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 3
+Sprites/Player/Axe/Defence0/Player_Attack_Axe_Defence0
+  rotate: false
+  xy: 162, 645
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 0
+Sprites/Player/Axe/Defence0/Player_Attack_Axe_Defence0
+  rotate: false
+  xy: 323, 806
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 1
+Sprites/Player/Axe/Defence0/Player_Attack_Axe_Defence0
+  rotate: false
+  xy: 1, 323
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 2
+Sprites/Player/Axe/Defence0/Player_Attack_Axe_Defence0
+  rotate: false
+  xy: 162, 484
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 3
+Sprites/Player/Axe/Defence1/Player_Attack_Axe_Defence1
+  rotate: false
+  xy: 323, 645
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 0
+Sprites/Player/Axe/Defence1/Player_Attack_Axe_Defence1
+  rotate: false
+  xy: 484, 806
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 1
+Sprites/Player/Axe/Defence1/Player_Attack_Axe_Defence1
+  rotate: false
+  xy: 1, 162
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 2
+Sprites/Player/Axe/Defence1/Player_Attack_Axe_Defence1
+  rotate: false
+  xy: 162, 323
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 3
+Sprites/Player/Axe/Defence2/Player_Attack_Axe_Defence2
+  rotate: false
+  xy: 323, 484
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 0
+Sprites/Player/Axe/Defence2/Player_Attack_Axe_Defence2
+  rotate: false
+  xy: 484, 645
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 1
+Sprites/Player/Axe/Defence2/Player_Attack_Axe_Defence2
+  rotate: false
+  xy: 645, 806
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 2
+Sprites/Player/Axe/Defence2/Player_Attack_Axe_Defence2
+  rotate: false
+  xy: 1, 1
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 3
+Sprites/Player/Axe/Defence3/Player_Attack_Axe_Defence3
+  rotate: false
+  xy: 162, 162
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 0
+Sprites/Player/Axe/Defence3/Player_Attack_Axe_Defence3
+  rotate: false
+  xy: 323, 323
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 1
+Sprites/Player/Axe/Defence3/Player_Attack_Axe_Defence3
+  rotate: false
+  xy: 484, 484
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 2
+Sprites/Player/Axe/Defence3/Player_Attack_Axe_Defence3
+  rotate: false
+  xy: 645, 645
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 3
+Sprites/Player/Axe/Defence4/Player_Attack_Axe_Defence4
+  rotate: false
+  xy: 806, 806
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 0
+Sprites/Player/Axe/Defence4/Player_Attack_Axe_Defence4
+  rotate: false
+  xy: 162, 1
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 1
+Sprites/Player/Axe/Defence4/Player_Attack_Axe_Defence4
+  rotate: false
+  xy: 323, 162
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 2
+Sprites/Player/Axe/Defence4/Player_Attack_Axe_Defence4
+  rotate: false
+  xy: 484, 323
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 3
+Sprites/Player/Scepter/Defence0/Player_Attack_Scepter_Defence0
+  rotate: false
+  xy: 645, 484
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 0
+Sprites/Player/Scepter/Defence0/Player_Attack_Scepter_Defence0
+  rotate: false
+  xy: 806, 645
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 1
+Sprites/Player/Scepter/Defence0/Player_Attack_Scepter_Defence0
+  rotate: false
+  xy: 323, 1
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 2
+Sprites/Player/Scepter/Defence0/Player_Attack_Scepter_Defence0
+  rotate: false
+  xy: 484, 162
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 3
+Sprites/Player/Scepter/Defence1/Player_Attack_Scepter_Defence1
+  rotate: false
+  xy: 645, 323
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 0
+Sprites/Player/Scepter/Defence1/Player_Attack_Scepter_Defence1
+  rotate: false
+  xy: 806, 484
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 1
+Sprites/Player/Scepter/Defence1/Player_Attack_Scepter_Defence1
+  rotate: false
+  xy: 484, 1
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 2
+Sprites/Player/Scepter/Defence1/Player_Attack_Scepter_Defence1
+  rotate: false
+  xy: 645, 162
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 3
+Sprites/Player/Scepter/Defence2/Player_Attack_Scepter_Defence2
+  rotate: false
+  xy: 806, 323
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 0
+Sprites/Player/Scepter/Defence2/Player_Attack_Scepter_Defence2
+  rotate: false
+  xy: 645, 1
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 1
+Sprites/Player/Scepter/Defence2/Player_Attack_Scepter_Defence2
+  rotate: false
+  xy: 806, 162
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 2
+Sprites/Player/Scepter/Defence2/Player_Attack_Scepter_Defence2
+  rotate: false
+  xy: 806, 1
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 3
+
+textures13.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Sprites/Player/Axe/Player_Death_Axe
+  rotate: false
+  xy: 806, 323
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 0
+Sprites/Player/Axe/Player_Death_Axe
+  rotate: false
+  xy: 645, 1
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 1
+Sprites/Player/Axe/Player_Death_Axe
+  rotate: false
+  xy: 806, 162
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 2
+Sprites/Player/Axe/Player_Death_Axe
+  rotate: false
+  xy: 806, 1
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 3
+Sprites/Player/Scepter/Player_Death_Scepter
+  rotate: false
+  xy: 806, 1
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 3
+Sprites/Player/Special/Player_Death_Special
+  rotate: false
+  xy: 806, 1
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 3
+Sprites/Player/Sword/Player_Death_Sword
+  rotate: false
+  xy: 806, 1
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 3
+Sprites/Player/Scepter/Defence3/Player_Attack_Scepter_Defence3
+  rotate: false
+  xy: 1, 806
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 0
+Sprites/Player/Scepter/Defence3/Player_Attack_Scepter_Defence3
+  rotate: false
+  xy: 1, 645
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 1
+Sprites/Player/Scepter/Defence3/Player_Attack_Scepter_Defence3
+  rotate: false
+  xy: 162, 806
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 2
+Sprites/Player/Scepter/Defence3/Player_Attack_Scepter_Defence3
+  rotate: false
+  xy: 1, 484
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 3
+Sprites/Player/Scepter/Defence4/Player_Attack_Scepter_Defence4
+  rotate: false
+  xy: 162, 645
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 0
+Sprites/Player/Scepter/Defence4/Player_Attack_Scepter_Defence4
+  rotate: false
+  xy: 323, 806
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 1
+Sprites/Player/Scepter/Defence4/Player_Attack_Scepter_Defence4
+  rotate: false
+  xy: 1, 323
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 2
+Sprites/Player/Scepter/Defence4/Player_Attack_Scepter_Defence4
+  rotate: false
+  xy: 162, 484
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 3
+Sprites/Player/Special/Player_Attack_Special
+  rotate: false
+  xy: 323, 645
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 0
+Sprites/Player/Special/Player_Attack_Special
+  rotate: false
+  xy: 484, 806
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 1
+Sprites/Player/Special/Player_Attack_Special
+  rotate: false
+  xy: 1, 162
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 2
+Sprites/Player/Special/Player_Attack_Special
+  rotate: false
+  xy: 162, 323
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 3
+Sprites/Player/Sword/Defence0/Player_Attack_Sword_Defence0
+  rotate: false
+  xy: 323, 484
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 0
+Sprites/Player/Sword/Defence0/Player_Attack_Sword_Defence0
+  rotate: false
+  xy: 484, 645
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 1
+Sprites/Player/Sword/Defence0/Player_Attack_Sword_Defence0
+  rotate: false
+  xy: 645, 806
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 2
+Sprites/Player/Sword/Defence0/Player_Attack_Sword_Defence0
+  rotate: false
+  xy: 1, 1
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 3
+Sprites/Player/Sword/Defence1/Player_Attack_Sword_Defence1
+  rotate: false
+  xy: 162, 162
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 0
+Sprites/Player/Sword/Defence1/Player_Attack_Sword_Defence1
+  rotate: false
+  xy: 323, 323
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 1
+Sprites/Player/Sword/Defence1/Player_Attack_Sword_Defence1
+  rotate: false
+  xy: 484, 484
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 2
+Sprites/Player/Sword/Defence1/Player_Attack_Sword_Defence1
+  rotate: false
+  xy: 645, 645
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 3
+Sprites/Player/Sword/Defence2/Player_Attack_Sword_Defence2
+  rotate: false
+  xy: 806, 806
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 0
+Sprites/Player/Sword/Defence2/Player_Attack_Sword_Defence2
+  rotate: false
+  xy: 162, 1
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 1
+Sprites/Player/Sword/Defence2/Player_Attack_Sword_Defence2
+  rotate: false
+  xy: 323, 162
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 2
+Sprites/Player/Sword/Defence2/Player_Attack_Sword_Defence2
+  rotate: false
+  xy: 484, 323
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 3
+Sprites/Player/Sword/Defence3/Player_Attack_Sword_Defence3
+  rotate: false
+  xy: 645, 484
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 0
+Sprites/Player/Sword/Defence3/Player_Attack_Sword_Defence3
+  rotate: false
+  xy: 806, 645
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 1
+Sprites/Player/Sword/Defence3/Player_Attack_Sword_Defence3
+  rotate: false
+  xy: 323, 1
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 2
+Sprites/Player/Sword/Defence3/Player_Attack_Sword_Defence3
+  rotate: false
+  xy: 484, 162
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 3
+Sprites/Player/Sword/Defence4/Player_Attack_Sword_Defence4
+  rotate: false
+  xy: 645, 323
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 0
+Sprites/Player/Sword/Defence4/Player_Attack_Sword_Defence4
+  rotate: false
+  xy: 806, 484
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 1
+Sprites/Player/Sword/Defence4/Player_Attack_Sword_Defence4
+  rotate: false
+  xy: 484, 1
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 2
+Sprites/Player/Sword/Defence4/Player_Attack_Sword_Defence4
+  rotate: false
+  xy: 645, 162
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 3
+
+textures14.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Sprites/Player/Axe/Defence0/Player_Idle_Axe_Defence0
+  rotate: false
+  xy: 484, 806
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 0
+Sprites/Player/Axe/Defence0/Player_Idle_Axe_Defence0
+  rotate: false
+  xy: 1, 162
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 1
+Sprites/Player/Axe/Defence0/Player_Idle_Axe_Defence0
+  rotate: false
+  xy: 162, 323
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 2
+Sprites/Player/Axe/Defence0/Player_Idle_Axe_Defence0
+  rotate: false
+  xy: 323, 484
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 3
+Sprites/Player/Axe/Defence1/Player_Idle_Axe_Defence1
+  rotate: false
+  xy: 484, 645
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 0
+Sprites/Player/Axe/Defence1/Player_Idle_Axe_Defence1
+  rotate: false
+  xy: 645, 806
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 1
+Sprites/Player/Axe/Defence1/Player_Idle_Axe_Defence1
+  rotate: false
+  xy: 1, 1
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 2
+Sprites/Player/Axe/Defence1/Player_Idle_Axe_Defence1
+  rotate: false
+  xy: 162, 162
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 3
+Sprites/Player/Axe/Defence2/Player_Idle_Axe_Defence2
+  rotate: false
+  xy: 323, 323
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 0
+Sprites/Player/Axe/Defence2/Player_Idle_Axe_Defence2
+  rotate: false
+  xy: 484, 484
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 1
+Sprites/Player/Axe/Defence2/Player_Idle_Axe_Defence2
+  rotate: false
+  xy: 645, 645
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 2
+Sprites/Player/Axe/Defence2/Player_Idle_Axe_Defence2
+  rotate: false
+  xy: 806, 806
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 3
+Sprites/Player/Axe/Defence3/Player_Idle_Axe_Defence3
+  rotate: false
+  xy: 162, 1
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 0
+Sprites/Player/Axe/Defence3/Player_Idle_Axe_Defence3
+  rotate: false
+  xy: 323, 162
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 1
+Sprites/Player/Axe/Defence3/Player_Idle_Axe_Defence3
+  rotate: false
+  xy: 484, 323
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 2
+Sprites/Player/Axe/Defence3/Player_Idle_Axe_Defence3
+  rotate: false
+  xy: 645, 484
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 3
+Sprites/Player/Axe/Defence4/Player_Idle_Axe_Defence4
+  rotate: false
+  xy: 806, 645
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 0
+Sprites/Player/Axe/Defence4/Player_Idle_Axe_Defence4
+  rotate: false
+  xy: 323, 1
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 1
+Sprites/Player/Axe/Defence4/Player_Idle_Axe_Defence4
+  rotate: false
+  xy: 484, 162
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 2
+Sprites/Player/Axe/Defence4/Player_Idle_Axe_Defence4
+  rotate: false
+  xy: 645, 323
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 3
+Sprites/Player/Scepter/Defence0/Player_Idle_Scepter_Defence0
+  rotate: false
+  xy: 806, 484
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 0
+Sprites/Player/Scepter/Defence0/Player_Idle_Scepter_Defence0
+  rotate: false
+  xy: 484, 1
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 1
+Sprites/Player/Scepter/Defence0/Player_Idle_Scepter_Defence0
+  rotate: false
+  xy: 645, 162
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 2
+Sprites/Player/Scepter/Defence0/Player_Idle_Scepter_Defence0
+  rotate: false
+  xy: 806, 323
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 3
+Sprites/Player/Scepter/Defence1/Player_Idle_Scepter_Defence1
+  rotate: false
+  xy: 645, 1
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 0
+Sprites/Player/Scepter/Defence1/Player_Idle_Scepter_Defence1
+  rotate: false
+  xy: 806, 162
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 1
+Sprites/Player/Scepter/Defence1/Player_Idle_Scepter_Defence1
+  rotate: false
+  xy: 806, 1
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 2
+Sprites/Player/Scepter/Player_Death_Scepter
+  rotate: false
+  xy: 1, 806
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 0
+Sprites/Player/Scepter/Player_Death_Scepter
+  rotate: false
+  xy: 1, 645
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 1
+Sprites/Player/Scepter/Player_Death_Scepter
+  rotate: false
+  xy: 162, 806
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 2
+Sprites/Player/Special/Player_Death_Special
+  rotate: false
+  xy: 1, 484
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 0
+Sprites/Player/Special/Player_Death_Special
+  rotate: false
+  xy: 162, 645
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 1
+Sprites/Player/Special/Player_Death_Special
+  rotate: false
+  xy: 323, 806
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 2
+Sprites/Player/Sword/Player_Death_Sword
+  rotate: false
+  xy: 1, 323
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 0
+Sprites/Player/Sword/Player_Death_Sword
+  rotate: false
+  xy: 162, 484
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 1
+Sprites/Player/Sword/Player_Death_Sword
+  rotate: false
+  xy: 323, 645
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 2
+
+textures15.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Sprites/Player/Scepter/Defence1/Player_Idle_Scepter_Defence1
+  rotate: false
+  xy: 1, 806
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 3
+Sprites/Player/Scepter/Defence2/Player_Idle_Scepter_Defence2
+  rotate: false
+  xy: 1, 645
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 0
+Sprites/Player/Scepter/Defence2/Player_Idle_Scepter_Defence2
+  rotate: false
+  xy: 162, 806
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 1
+Sprites/Player/Scepter/Defence2/Player_Idle_Scepter_Defence2
+  rotate: false
+  xy: 1, 484
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 2
+Sprites/Player/Scepter/Defence2/Player_Idle_Scepter_Defence2
+  rotate: false
+  xy: 162, 645
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 3
+Sprites/Player/Scepter/Defence3/Player_Idle_Scepter_Defence3
+  rotate: false
+  xy: 323, 806
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 0
+Sprites/Player/Scepter/Defence3/Player_Idle_Scepter_Defence3
+  rotate: false
+  xy: 1, 323
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 1
+Sprites/Player/Scepter/Defence3/Player_Idle_Scepter_Defence3
+  rotate: false
+  xy: 162, 484
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 2
+Sprites/Player/Scepter/Defence3/Player_Idle_Scepter_Defence3
+  rotate: false
+  xy: 323, 645
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 3
+Sprites/Player/Scepter/Defence4/Player_Idle_Scepter_Defence4
+  rotate: false
+  xy: 484, 806
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 0
+Sprites/Player/Scepter/Defence4/Player_Idle_Scepter_Defence4
+  rotate: false
+  xy: 1, 162
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 1
+Sprites/Player/Scepter/Defence4/Player_Idle_Scepter_Defence4
+  rotate: false
+  xy: 162, 323
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 2
+Sprites/Player/Scepter/Defence4/Player_Idle_Scepter_Defence4
+  rotate: false
+  xy: 323, 484
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 3
+Sprites/Player/Special/Player_Idle_Special
+  rotate: false
+  xy: 484, 645
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 0
+Sprites/Player/Special/Player_Idle_Special
+  rotate: false
+  xy: 645, 806
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 1
+Sprites/Player/Special/Player_Idle_Special
+  rotate: false
+  xy: 1, 1
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 2
+Sprites/Player/Special/Player_Idle_Special
+  rotate: false
+  xy: 162, 162
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 3
+Sprites/Player/Sword/Defence0/Player_Idle_Sword_Defence0
+  rotate: false
+  xy: 323, 323
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 0
+Sprites/Player/Sword/Defence0/Player_Idle_Sword_Defence0
+  rotate: false
+  xy: 484, 484
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 1
+Sprites/Player/Sword/Defence0/Player_Idle_Sword_Defence0
+  rotate: false
+  xy: 645, 645
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 2
+Sprites/Player/Sword/Defence0/Player_Idle_Sword_Defence0
+  rotate: false
+  xy: 806, 806
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 3
+Sprites/Player/Sword/Defence1/Player_Idle_Sword_Defence1
+  rotate: false
+  xy: 162, 1
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 0
+Sprites/Player/Sword/Defence1/Player_Idle_Sword_Defence1
+  rotate: false
+  xy: 323, 162
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 1
+Sprites/Player/Sword/Defence1/Player_Idle_Sword_Defence1
+  rotate: false
+  xy: 484, 323
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 2
+Sprites/Player/Sword/Defence1/Player_Idle_Sword_Defence1
+  rotate: false
+  xy: 645, 484
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 3
+Sprites/Player/Sword/Defence2/Player_Idle_Sword_Defence2
+  rotate: false
+  xy: 806, 645
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 0
+Sprites/Player/Sword/Defence2/Player_Idle_Sword_Defence2
+  rotate: false
+  xy: 323, 1
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 1
+Sprites/Player/Sword/Defence2/Player_Idle_Sword_Defence2
+  rotate: false
+  xy: 484, 162
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 2
+Sprites/Player/Sword/Defence2/Player_Idle_Sword_Defence2
+  rotate: false
+  xy: 645, 323
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 3
+Sprites/Player/Sword/Defence3/Player_Idle_Sword_Defence3
+  rotate: false
+  xy: 806, 484
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 0
+Sprites/Player/Sword/Defence3/Player_Idle_Sword_Defence3
+  rotate: false
+  xy: 484, 1
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 1
+Sprites/Player/Sword/Defence3/Player_Idle_Sword_Defence3
+  rotate: false
+  xy: 645, 162
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 2
+Sprites/Player/Sword/Defence3/Player_Idle_Sword_Defence3
+  rotate: false
+  xy: 806, 323
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 3
+Sprites/Player/Sword/Defence4/Player_Idle_Sword_Defence4
+  rotate: false
+  xy: 645, 1
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 0
+Sprites/Player/Sword/Defence4/Player_Idle_Sword_Defence4
+  rotate: false
+  xy: 806, 162
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 1
+Sprites/Player/Sword/Defence4/Player_Idle_Sword_Defence4
+  rotate: false
+  xy: 806, 1
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 2
+
+textures16.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Sprites/Player/Axe/Defence0/Player_Walk_Axe_Defence0
+  rotate: false
+  xy: 1, 645
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 0
+Sprites/Player/Axe/Defence0/Player_Walk_Axe_Defence0
+  rotate: false
+  xy: 162, 806
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 1
+Sprites/Player/Axe/Defence0/Player_Walk_Axe_Defence0
+  rotate: false
+  xy: 1, 484
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 2
+Sprites/Player/Axe/Defence0/Player_Walk_Axe_Defence0
+  rotate: false
+  xy: 162, 645
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 3
+Sprites/Player/Axe/Defence1/Player_Walk_Axe_Defence1
+  rotate: false
+  xy: 323, 806
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 0
+Sprites/Player/Axe/Defence1/Player_Walk_Axe_Defence1
+  rotate: false
+  xy: 1, 323
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 1
+Sprites/Player/Axe/Defence1/Player_Walk_Axe_Defence1
+  rotate: false
+  xy: 162, 484
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 2
+Sprites/Player/Axe/Defence1/Player_Walk_Axe_Defence1
+  rotate: false
+  xy: 323, 645
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 3
+Sprites/Player/Axe/Defence2/Player_Walk_Axe_Defence2
+  rotate: false
+  xy: 484, 806
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 0
+Sprites/Player/Axe/Defence2/Player_Walk_Axe_Defence2
+  rotate: false
+  xy: 1, 162
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 1
+Sprites/Player/Axe/Defence2/Player_Walk_Axe_Defence2
+  rotate: false
+  xy: 162, 323
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 2
+Sprites/Player/Axe/Defence2/Player_Walk_Axe_Defence2
+  rotate: false
+  xy: 323, 484
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 3
+Sprites/Player/Axe/Defence3/Player_Walk_Axe_Defence3
+  rotate: false
+  xy: 484, 645
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 0
+Sprites/Player/Axe/Defence3/Player_Walk_Axe_Defence3
+  rotate: false
+  xy: 645, 806
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 1
+Sprites/Player/Axe/Defence3/Player_Walk_Axe_Defence3
+  rotate: false
+  xy: 1, 1
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 2
+Sprites/Player/Axe/Defence3/Player_Walk_Axe_Defence3
+  rotate: false
+  xy: 162, 162
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 3
+Sprites/Player/Axe/Defence4/Player_Walk_Axe_Defence4
+  rotate: false
+  xy: 323, 323
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 0
+Sprites/Player/Axe/Defence4/Player_Walk_Axe_Defence4
+  rotate: false
+  xy: 484, 484
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 1
+Sprites/Player/Axe/Defence4/Player_Walk_Axe_Defence4
+  rotate: false
+  xy: 645, 645
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 2
+Sprites/Player/Axe/Defence4/Player_Walk_Axe_Defence4
+  rotate: false
+  xy: 806, 806
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 3
+Sprites/Player/Scepter/Defence0/Player_Walk_Scepter_Defence0
+  rotate: false
+  xy: 162, 1
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 0
+Sprites/Player/Scepter/Defence0/Player_Walk_Scepter_Defence0
+  rotate: false
+  xy: 323, 162
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 1
+Sprites/Player/Scepter/Defence0/Player_Walk_Scepter_Defence0
+  rotate: false
+  xy: 484, 323
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 2
+Sprites/Player/Scepter/Defence0/Player_Walk_Scepter_Defence0
+  rotate: false
+  xy: 645, 484
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 3
+Sprites/Player/Scepter/Defence1/Player_Walk_Scepter_Defence1
+  rotate: false
+  xy: 806, 645
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 0
+Sprites/Player/Scepter/Defence1/Player_Walk_Scepter_Defence1
+  rotate: false
+  xy: 323, 1
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 1
+Sprites/Player/Scepter/Defence1/Player_Walk_Scepter_Defence1
+  rotate: false
+  xy: 484, 162
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 2
+Sprites/Player/Scepter/Defence1/Player_Walk_Scepter_Defence1
+  rotate: false
+  xy: 645, 323
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 3
+Sprites/Player/Scepter/Defence2/Player_Walk_Scepter_Defence2
+  rotate: false
+  xy: 806, 484
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 0
+Sprites/Player/Scepter/Defence2/Player_Walk_Scepter_Defence2
+  rotate: false
+  xy: 484, 1
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 1
+Sprites/Player/Scepter/Defence2/Player_Walk_Scepter_Defence2
+  rotate: false
+  xy: 645, 162
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 2
+Sprites/Player/Scepter/Defence2/Player_Walk_Scepter_Defence2
+  rotate: false
+  xy: 806, 323
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 3
+Sprites/Player/Scepter/Defence3/Player_Walk_Scepter_Defence3
+  rotate: false
+  xy: 645, 1
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 0
+Sprites/Player/Scepter/Defence3/Player_Walk_Scepter_Defence3
+  rotate: false
+  xy: 806, 162
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 1
+Sprites/Player/Scepter/Defence3/Player_Walk_Scepter_Defence3
+  rotate: false
+  xy: 806, 1
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 2
+Sprites/Player/Sword/Defence4/Player_Idle_Sword_Defence4
+  rotate: false
+  xy: 1, 806
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 3
+
+textures17.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Items/Scepter/Scepter
+  rotate: false
+  xy: 806, 484
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 0
+Items/Scepter/Scepter
+  rotate: false
+  xy: 484, 1
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 1
+Items/Scepter/Scepter
+  rotate: false
+  xy: 645, 162
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 2
+Items/Scepter/Scepter
+  rotate: false
+  xy: 806, 323
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 3
+Props/Doors/Skeleton Door/SkeletonDoor_Close
+  rotate: false
+  xy: 645, 1
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 0
+Props/Doors/Skeleton Door/SkeletonDoor_Close
+  rotate: false
+  xy: 806, 162
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 1
+Props/Doors/Skeleton Door/SkeletonDoor_Close
+  rotate: false
+  xy: 806, 1
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 2
+Sprites/Player/Scepter/Defence3/Player_Walk_Scepter_Defence3
+  rotate: false
+  xy: 1, 806
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 3
+Sprites/Player/Scepter/Defence4/Player_Walk_Scepter_Defence4
+  rotate: false
+  xy: 1, 645
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 0
+Sprites/Player/Scepter/Defence4/Player_Walk_Scepter_Defence4
+  rotate: false
+  xy: 162, 806
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 1
+Sprites/Player/Scepter/Defence4/Player_Walk_Scepter_Defence4
+  rotate: false
+  xy: 1, 484
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 2
+Sprites/Player/Scepter/Defence4/Player_Walk_Scepter_Defence4
+  rotate: false
+  xy: 162, 645
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 3
+Sprites/Player/Special/Player_Walk_Special
+  rotate: false
+  xy: 323, 806
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 0
+Sprites/Player/Special/Player_Walk_Special
+  rotate: false
+  xy: 1, 323
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 1
+Sprites/Player/Special/Player_Walk_Special
+  rotate: false
+  xy: 162, 484
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 2
+Sprites/Player/Special/Player_Walk_Special
+  rotate: false
+  xy: 323, 645
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 3
+Sprites/Player/Sword/Defence0/Player_Walk_Sword_Defence0
+  rotate: false
+  xy: 484, 806
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 0
+Sprites/Player/Sword/Defence0/Player_Walk_Sword_Defence0
+  rotate: false
+  xy: 1, 162
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 1
+Sprites/Player/Sword/Defence0/Player_Walk_Sword_Defence0
+  rotate: false
+  xy: 162, 323
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 2
+Sprites/Player/Sword/Defence0/Player_Walk_Sword_Defence0
+  rotate: false
+  xy: 323, 484
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 3
+Sprites/Player/Sword/Defence1/Player_Walk_Sword_Defence1
+  rotate: false
+  xy: 484, 645
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 0
+Sprites/Player/Sword/Defence1/Player_Walk_Sword_Defence1
+  rotate: false
+  xy: 645, 806
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 1
+Sprites/Player/Sword/Defence1/Player_Walk_Sword_Defence1
+  rotate: false
+  xy: 1, 1
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 2
+Sprites/Player/Sword/Defence1/Player_Walk_Sword_Defence1
+  rotate: false
+  xy: 162, 162
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 3
+Sprites/Player/Sword/Defence2/Player_Walk_Sword_Defence2
+  rotate: false
+  xy: 323, 323
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 0
+Sprites/Player/Sword/Defence2/Player_Walk_Sword_Defence2
+  rotate: false
+  xy: 484, 484
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 1
+Sprites/Player/Sword/Defence2/Player_Walk_Sword_Defence2
+  rotate: false
+  xy: 645, 645
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 2
+Sprites/Player/Sword/Defence2/Player_Walk_Sword_Defence2
+  rotate: false
+  xy: 806, 806
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 3
+Sprites/Player/Sword/Defence3/Player_Walk_Sword_Defence3
+  rotate: false
+  xy: 162, 1
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 0
+Sprites/Player/Sword/Defence3/Player_Walk_Sword_Defence3
+  rotate: false
+  xy: 323, 162
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 1
+Sprites/Player/Sword/Defence3/Player_Walk_Sword_Defence3
+  rotate: false
+  xy: 484, 323
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 2
+Sprites/Player/Sword/Defence3/Player_Walk_Sword_Defence3
+  rotate: false
+  xy: 645, 484
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 3
+Sprites/Player/Sword/Defence4/Player_Walk_Sword_Defence4
+  rotate: false
+  xy: 806, 645
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 0
+Sprites/Player/Sword/Defence4/Player_Walk_Sword_Defence4
+  rotate: false
+  xy: 323, 1
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 1
+Sprites/Player/Sword/Defence4/Player_Walk_Sword_Defence4
+  rotate: false
+  xy: 484, 162
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 2
+Sprites/Player/Sword/Defence4/Player_Walk_Sword_Defence4
+  rotate: false
+  xy: 645, 323
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 3
+
+textures18.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Props/Doors/Skeleton Door/SkeletonDoor_Close
+  rotate: false
+  xy: 1, 806
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 3
+Props/Doors/Skeleton Door/SkeletonDoor_Open
+  rotate: false
+  xy: 1, 645
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 0
+Props/Doors/Skeleton Door/SkeletonDoor_Open
+  rotate: false
+  xy: 162, 806
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 1
+Props/Doors/Skeleton Door/SkeletonDoor_Open
+  rotate: false
+  xy: 1, 484
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 2
+Props/Doors/Skeleton Door/SkeletonDoor_Open
+  rotate: false
+  xy: 162, 645
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 3
+Props/Doors/Slime Door/SlimeDoor_Close
+  rotate: false
+  xy: 162, 1
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 0
+Props/Doors/Slime Door/SlimeDoor_Close
+  rotate: false
+  xy: 323, 162
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 1
+Props/Doors/Slime Door/SlimeDoor_Close
+  rotate: false
+  xy: 484, 323
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 2
+Props/Doors/Slime Door/SlimeDoor_Close
+  rotate: false
+  xy: 645, 484
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 3
+Props/Doors/Slime Door/SlimeDoor_Open
+  rotate: false
+  xy: 806, 645
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 0
+Props/Doors/Slime Door/SlimeDoor_Open
+  rotate: false
+  xy: 323, 1
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 1
+Props/Doors/Slime Door/SlimeDoor_Open
+  rotate: false
+  xy: 484, 162
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 2
+Props/Doors/Slime Door/SlimeDoor_Open
+  rotate: false
+  xy: 645, 323
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 3
+Sprites/Monsters/Skeleton/Variant0/Skeleton_Death
+  rotate: false
+  xy: 323, 806
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 0
+Sprites/Monsters/Skeleton/Variant0/Skeleton_Death
+  rotate: false
+  xy: 162, 484
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 1
+Sprites/Monsters/Skeleton/Variant0/Skeleton_Death
+  rotate: false
+  xy: 484, 806
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 2
+Sprites/Monsters/Skeleton/Variant0/Skeleton_Death
+  rotate: false
+  xy: 162, 323
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 3
+Sprites/Monsters/Skeleton/Variant0/Skeleton_Walk
+  rotate: false
+  xy: 484, 645
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 0
+Sprites/Monsters/Skeleton/Variant0/Skeleton_Walk
+  rotate: false
+  xy: 1, 1
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 1
+Sprites/Monsters/Skeleton/Variant0/Skeleton_Walk
+  rotate: false
+  xy: 323, 323
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 2
+Sprites/Monsters/Skeleton/Variant0/Skeleton_Walk
+  rotate: false
+  xy: 645, 645
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 3
+Sprites/Monsters/Skeleton/Variant1/Skeleton_Death
+  rotate: false
+  xy: 1, 323
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 0
+Sprites/Monsters/Skeleton/Variant1/Skeleton_Death
+  rotate: false
+  xy: 323, 645
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 1
+Sprites/Monsters/Skeleton/Variant1/Skeleton_Death
+  rotate: false
+  xy: 1, 162
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 2
+Sprites/Monsters/Skeleton/Variant1/Skeleton_Death
+  rotate: false
+  xy: 323, 484
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 3
+Sprites/Monsters/Skeleton/Variant1/Skeleton_Walk
+  rotate: false
+  xy: 645, 806
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 0
+Sprites/Monsters/Skeleton/Variant1/Skeleton_Walk
+  rotate: false
+  xy: 162, 162
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 1
+Sprites/Monsters/Skeleton/Variant1/Skeleton_Walk
+  rotate: false
+  xy: 484, 484
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 2
+Sprites/Monsters/Skeleton/Variant1/Skeleton_Walk
+  rotate: false
+  xy: 806, 806
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 3
+Sprites/Monsters/Slime/Variant0/Slime_Death
+  rotate: false
+  xy: 806, 484
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 0
+Sprites/Monsters/Slime/Variant0/Slime_Death
+  rotate: false
+  xy: 645, 162
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 1
+Sprites/Monsters/Slime/Variant0/Slime_Death
+  rotate: false
+  xy: 645, 1
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 2
+Sprites/Monsters/Slime/Variant0/Slime_Death
+  rotate: false
+  xy: 806, 1
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 3
+Sprites/Monsters/Slime/Variant1/Slime_Death
+  rotate: false
+  xy: 484, 1
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 0
+Sprites/Monsters/Slime/Variant1/Slime_Death
+  rotate: false
+  xy: 806, 323
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 1
+Sprites/Monsters/Slime/Variant1/Slime_Death
+  rotate: false
+  xy: 806, 162
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 2
+
+textures19.png
+size: 1024,512
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Items/Special/Special
+  rotate: false
+  xy: 323, 1
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 0
+Items/Special/Special
+  rotate: false
+  xy: 484, 162
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 1
+Items/Special/Special
+  rotate: false
+  xy: 645, 323
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 2
+Items/Special/Special
+  rotate: false
+  xy: 484, 1
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 3
+Sprites/Monsters/Slime/Variant0/Slime_Walk
+  rotate: false
+  xy: 1, 162
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 0
+Sprites/Monsters/Slime/Variant0/Slime_Walk
+  rotate: false
+  xy: 1, 1
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 1
+Sprites/Monsters/Slime/Variant0/Slime_Walk
+  rotate: false
+  xy: 323, 323
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 2
+Sprites/Monsters/Slime/Variant0/Slime_Walk
+  rotate: false
+  xy: 323, 162
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 3
+Sprites/Monsters/Slime/Variant1/Slime_Death
+  rotate: false
+  xy: 1, 323
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 3
+Sprites/Monsters/Slime/Variant1/Slime_Walk
+  rotate: false
+  xy: 162, 323
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 0
+Sprites/Monsters/Slime/Variant1/Slime_Walk
+  rotate: false
+  xy: 162, 162
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 1
+Sprites/Monsters/Slime/Variant1/Slime_Walk
+  rotate: false
+  xy: 162, 1
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 2
+Sprites/Monsters/Slime/Variant1/Slime_Walk
+  rotate: false
+  xy: 484, 323
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 3
